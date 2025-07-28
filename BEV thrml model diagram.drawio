@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" version="28.0.6">
   <diagram name="Page-1" id="w69QgauEFFYnWDhPD-Ga">
-    <mxGraphModel dx="494" dy="328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,46 +102,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-118" value="Battery Temp." style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="515" width="113" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-119" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="bY4IOYTVBXKEHmrtxOaj-118" parent="1">
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-119" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=-0.003;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="bY4IOYTVBXKEHmrtxOaj-135" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="396" y="471" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-122" value="Ambient Temp." style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="443" y="328" width="119" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-123" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="bY4IOYTVBXKEHmrtxOaj-122" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="476" y="392" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="549" y="431" />
-              <mxPoint x="533" y="374" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-124" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bY4IOYTVBXKEHmrtxOaj-122">
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-124" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=-0.031;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bY4IOYTVBXKEHmrtxOaj-133">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="396" y="360" as="sourcePoint" />
-            <mxPoint x="521" y="374" as="targetPoint" />
+            <mxPoint x="443.0000000000001" y="343.0000000000001" as="targetPoint" />
             <Array as="points">
               <mxPoint x="398" y="359" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-125" value="Cabin Temp." style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="230" y="362" width="106" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bY4IOYTVBXKEHmrtxOaj-127" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bY4IOYTVBXKEHmrtxOaj-125">
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-127" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1.056;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bY4IOYTVBXKEHmrtxOaj-131">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="456" y="329" as="sourcePoint" />
+            <mxPoint x="320" y="369" as="sourcePoint" />
             <mxPoint x="398" y="414" as="targetPoint" />
             <Array as="points">
               <mxPoint x="458" y="328" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-131" value="Cabin&lt;br&gt;Temp." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="282" y="350" width="46" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-133" value="Ambient&lt;br&gt;Temp." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="46" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-134" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;exitX=1.035;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bY4IOYTVBXKEHmrtxOaj-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="340" as="sourcePoint" />
+            <mxPoint x="480" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bY4IOYTVBXKEHmrtxOaj-135" value="Battery&lt;br&gt;Temp." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="505" width="46" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
